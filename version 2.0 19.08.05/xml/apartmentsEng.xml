@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<apartments>
+	<apartment id="1" addressHTML="0" addressIMAGE="0" number="1" description=""/>
+	<apartment id="2" addressHTML="0" addressIMAGE="0" number="2" description=""/>
+	<apartment id="3" addressHTML="0" addressIMAGE="0" number="3" description=""/>
+	<apartment id="4" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="1" description="Deribasovskaya street Luxury"/>
+	<apartment id="5" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="2" description="Deribasovskaya street Luxury"/>
+	<apartment id="6" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="3" description="Deribasovskaya street Luxury"/>
+	<apartment id="7" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="4" description="Deribasovskaya street Luxury"/>
+	<apartment id="8" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="5" description="Deribasovskaya street Luxury"/>
+	<apartment id="9" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="6" description="Deribasovskaya street Luxury"/>
+	<apartment id="10" addressHTML="eng/1.html" addressIMAGE="photos/11.jpg" number="7" description="Deribasovskaya street Luxury"/>
+	<apartment id="11" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="8" description="Deribasovskaya street Luxury"/>
+	<apartment id="12" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="9" description="Deribasovskaya street Luxury"/>
+	<apartment id="13" addressHTML="0" addressIMAGE="0" number="13" description=""/>
+	<apartment id="14" addressHTML="0" addressIMAGE="0" number="14" description=""/>
+	<apartment id="15" addressHTML="0" addressIMAGE="0" number="15" description=""/>
+	<apartment id="16" addressHTML="0" addressIMAGE="0" number="16" description=""/>
+	<apartment id="17" addressHTML="0" addressIMAGE="0" number="17" description=""/>
+	<apartment id="18" addressHTML="0" addressIMAGE="0" number="18" description=""/>
+	<apartment id="19" addressHTML="0" addressIMAGE="0" number="19" description=""/>
+	<apartment id="20" addressHTML="0" addressIMAGE="0" number="20" description=""/>
+	<apartment id="21" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="10" description="Deribasovskaya street Luxury"/>
+	<apartment id="22" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="11" description="Deribasovskaya street Luxury"/>
+	<apartment id="23" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="12" description="Deribasovskaya street Luxury"/>
+	<apartment id="24" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="13" description="Deribasovskaya street Luxury"/>
+	<apartment id="25" addressHTML="0" addressIMAGE="0" number="25" description=""/>
+	<apartment id="26" addressHTML="0" addressIMAGE="0" number="26" description=""/>
+	<apartment id="27" addressHTML="0" addressIMAGE="0" number="27" description=""/>
+	<apartment id="28" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="14" description="Deribasovskaya street Luxury"/>
+	<apartment id="29" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="15" description="Deribasovskaya street Luxury"/>
+	<apartment id="30" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="16" description="Deribasovskaya street Luxury"/>
+	<apartment id="31" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="17" description="Deribasovskaya street Luxury"/>
+	<apartment id="32" addressHTML="eng/1.html" addressIMAGE="photos/der19_2.jpg" number="18" description="Deribasovskaya street Luxury"/>
+	<apartment id="33" addressHTML="0" addressIMAGE="0" number="33" description=""/>
+	<apartment id="34" addressHTML="0" addressIMAGE="0" number="34" description=""/>
+	<apartment id="35" addressHTML="0" addressIMAGE="0" number="35" description=""/>
+	<apartment id="36" addressHTML="0" addressIMAGE="0" number="36" description=""/>
+	<apartment id="37" addressHTML="0" addressIMAGE="0" number="37" description=""/>
+	<apartment id="38" addressHTML="0" addressIMAGE="0" number="38" description=""/>
+	<apartment id="39" addressHTML="0" addressIMAGE="0" number="39" description=""/>
+	<apartment id="40" addressHTML="0" addressIMAGE="0" number="40" description=""/>
+	<apartment id="41" addressHTML="0" addressIMAGE="0" number="41" description=""/>
+	<apartment id="42" addressHTML="0" addressIMAGE="0" number="42" description=""/>
+</apartments>

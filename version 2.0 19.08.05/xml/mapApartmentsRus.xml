@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+ <apartments>
+	<apartment id="1" addressHTML="0" coordX="323" coordY="86" number="6"/>
+	<apartment id="2" addressHTML="0" coordX="300" coordY="105" number="8"/>
+	<apartment id="3" addressHTML="0" coordX="445" coordY="117" number="3"/>
+	<apartment id="4" addressHTML="0" coordX="494" coordY="238" number="12"/>
+	<apartment id="5" addressHTML="0" coordX="407" coordY="252" number="8"/>
+	<apartment id="6" addressHTML="0" coordX="423" coordY="253" number="8"/>
+	<apartment id="7" addressHTML="rus/1.html" coordX="520" coordY="322" number="10"/>
+	<apartment id="8" addressHTML="0" coordX="387" coordY="312" number="19"/>
+	<apartment id="9" addressHTML="0" coordX="305" coordY="358" number="46"/>
+	<apartment id="10" addressHTML="0" coordX="439" coordY="507" number="26"/>
+	<apartment id="11" addressHTML="0" coordX="466" coordY="424" number="12"/>
+	<apartment id="12" addressHTML="0" coordX="446" coordY="314" number="18"/>
+	<apartment id="13" addressHTML="0" coordX="438" coordY="367" number="24"/>
+	<apartment id="14" addressHTML="0" coordX="459" coordY="370" number="24"/>
+</apartments>
